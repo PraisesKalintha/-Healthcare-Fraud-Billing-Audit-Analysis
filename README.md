@@ -102,7 +102,6 @@ impact on total healthcare revenue.
 ## 👤 Author
 
 **Praises Kalintha**  
-B.Tech — AI & Data Science | Saveetha University  
 📧 kalinthapraises777@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/praises-kalintha-30a621354/)  
 💻 [GitHub](https://github.com/praises4084?tab=repositories)
