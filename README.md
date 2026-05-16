@@ -3,7 +3,7 @@ An end-to-end data analysis project detecting and quantifying fraudulent healthc
 
 ## 🧮 SQL Analysis — Queries Covered
 
-| # | Query | Technique Used |
+| S.NO| Query | Technique Used |
 |---|---|---|
 | 1 | Total records and fraud rate overview | Aggregate functions, CASE WHEN |
 | 2 | Fraud breakdown by type with avg billing | GROUP BY, percentage calculation |
