@@ -67,17 +67,6 @@ impact on total healthcare revenue.
 
 ---
 
-## 📊 Dashboard Preview
-
-### Page 1 — SQL Query Results
-[your screenshot here]
-
-### Page 2 — Fraud Overview Dashboard
-[your screenshot here]
-
-### Page 3 — Financial Impact Dashboard
-[your screenshot here]
-
 ---
 
 ## 💡 Key Business Insights
