@@ -159,6 +159,15 @@ If prompted, update the data source path to point to your local Dataset/ folder
 Refresh the data and explore the dashboard
 
 ---
+
+🛠️ Tech Stack
+
+| Tool |  Purpose |
+| --- | --- |
+|ToolPurposeMySQLSQL |  querying and analysis |
+|Power BI | DesktopDashboard and visualization |
+|Microsoft Excel  | Data storage and preparation |
+
 ## 👤 Author
 
 **Praises Kalintha**  
