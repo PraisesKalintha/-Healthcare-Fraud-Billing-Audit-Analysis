@@ -143,6 +143,22 @@ ORDER BY fraud_rate_pct DESC;
 
 ---
 
+🚀 How to Run
+SQL Analysis
+
+Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
+Import the dataset from Dataset/ folder
+Run queries from the SQL/ folder in order (Q1 through Q10)
+Recommended database: MySQL or PostgreSQL
+
+Power BI Dashboard
+
+Download and install Power BI Desktop (free)
+Open Power BI/Healthcare_Fraud_Dashboard.pbix
+If prompted, update the data source path to point to your local Dataset/ folder
+Refresh the data and explore the dashboard
+
+---
 ## 👤 Author
 
 **Praises Kalintha**  
