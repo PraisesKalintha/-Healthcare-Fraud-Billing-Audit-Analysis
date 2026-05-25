@@ -164,9 +164,9 @@ Refresh the data and explore the dashboard
 
 | Tool |  Purpose |
 | --- | --- |
-|ToolPurposeMySQLSQL |  querying and analysis |
-|Power BI | DesktopDashboard and visualization |
-|Microsoft Excel  | Data storage and preparation |
+| MySQLSQL |  querying and analysis |
+| Power BI | DesktopDashboard and visualization |
+| Microsoft Excel  | Data storage and preparation |
 
 ## 👤 Author
 
