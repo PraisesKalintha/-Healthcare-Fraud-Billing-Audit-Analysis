@@ -191,9 +191,8 @@ Beyond the 100% fraud diagnoses, several everyday conditions showed significant 
 | Pneumonia | 102 | 34 | 33.33% |
 | Cesarean Section | 90 | 29 | 32.22% |
 
-# Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate — making it the
-most fraud-infiltrated high-volume condition. These conditions are targeted because they are common,
-frequently billed, and harder to audit at scale.
+# Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate —
+making it the most fraud-infiltrated high-volume condition. These conditions are targeted because they are common,frequently billed, and harder to audit at scale.
 
 ---
 
@@ -212,13 +211,11 @@ Children (0–18) face the highest average Phantom Billing at ₹677,960 per cas
 expensive fraud billing of any age group. This is alarming because minors are least likely to
 self-report billing discrepancies.
 
-The 76+ age group had the highest Ghost Enrollee count (48 cases) — elderly patients are
+The 76+ age group had the highest Ghost Enrollee count (48 cases) —  elderly patients are
 disproportionately enrolled as ghost beneficiaries, likely because their records are less actively
 monitored.
- The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
+The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
 adapt their method based on what is plausible for the age profile.
-
----
 
 The Worst Individual Cases
 The highest single fraudulent claim was **₹988,887** for a Cosmetic Surgery Phantom Billing case —
