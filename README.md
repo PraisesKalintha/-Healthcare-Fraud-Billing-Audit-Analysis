@@ -132,7 +132,7 @@ ORDER BY fraud_rate_pct DESC;
 
 ---
 
-# 📖 What We Found — The Data Story
+# 📖 What Found — The Data Story
 
 The Scale of the Problem
 Out of 1,500 patient records audited, 613 cases (40.87%) were fraudulent, with fraud accounting for
@@ -191,7 +191,7 @@ Beyond the 100% fraud diagnoses, several everyday conditions showed significant 
 | Pneumonia | 102 | 34 | 33.33% |
 | Cesarean Section | 90 | 29 | 32.22% |
 
-# Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate —
+ Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate —
 making it the most fraud-infiltrated high-volume condition. These conditions are targeted because they are common,frequently billed, and harder to audit at scale.
 
 ---
