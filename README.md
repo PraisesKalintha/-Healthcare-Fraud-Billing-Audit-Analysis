@@ -132,7 +132,7 @@ ORDER BY fraud_rate_pct DESC;
 
 ---
 
-📖 What We Found — The Data Story
+# 📖 What We Found — The Data Story
 
 The Scale of the Problem
 Out of 1,500 patient records audited, 613 cases (40.87%) were fraudulent, with fraud accounting for
@@ -158,46 +158,83 @@ detect without cross-referencing admission and discharge dates.
 
 ---
 
-High-Value Procedures Are Being Systematically Exploited
+# High-Value Procedures Are Being Systematically Exploited
+
 Eight diagnoses showed a 100% fraud rate — every single case filed under these procedures was fraudulent:
-Diagnosis Fraud CasesAvg Billing (₹)Total Fraud (₹)Epilepsy Surgery23625,05214,376,200Infertility Treatment (IVF)33583,11819,242,906Cosmetic Surgery27581,17215,691,632Organ Transplant23579,65913,332,161Cancer Treatment30491,02614,730,770Complex Heart Surgery26506,53913,170,025Neurosurgery21503,44710,572,384Advanced Spinal Surgery23480,53711,052,342
+
+| Diagnosis | Fraud Cases | Avg Billing (₹) | Total Fraud (₹) |
+| --- | --- | --- | --- |
+| Epilepsy Surgery | 23 | 625,052 | 14,376,200 |
+| Infertility Treatment (IVF) | 33 | 583,118 | 19,242,906 |
+| Cosmetic Surgery | 27 | 581,172 | 15,691,632 |
+| Organ Transplant | 23 | 579,659 | 13,332,161 |
+| Cancer Treatment | 30 | 491,026 | 14,730,770 |
+| Complex Heart Surgery | 26 | 506,539 | 13,170,025 |
+| Neurosurgery | 21 |503,447 | 10,572,384
+| Advanced Spinal Surgery | 23 | 480,537 | 11,052,342 |
+
+---
+
 These are not random targets. Fraudsters specifically chose high-cost, hard-to-verify surgical
 procedures where phantom billing is difficult to dispute. Epilepsy Surgery had the highest average
 billing per case at ₹625,052 — nearly 2.5× the legitimate baseline.
 IVF fraud alone accounts for ₹19.2 million — the single largest fraudulent diagnosis category.
+---
 
-Common Conditions Are Also at Risk
+# Common Conditions Are Also at Risk
 Beyond the 100% fraud diagnoses, several everyday conditions showed significant fraud infiltration:
-DiagnosisTotal CasesFraud CasesFraud RateHypertension903538.89%Tuberculosis1034038.83%Gastroenteritis903336.67%Stroke842833.33%Pneumonia1023433.33%Cesarean Section902932.22%
-Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate — making it the
+
+| Diagnosis | Total Cases | Fraud Cases | Fraud Rate |
+| --- | --- | --- | --- |
+| Hypertension | 90 | 35 | 38.89% |
+| Tuberculosis | 103 | 40 | 38.83% |
+| Gastroenteritis | 90 | 33 | 36.67% |
+| Stroke | 84 | 28 | 33.33% |
+| Pneumonia | 102 | 34 | 33.33% |
+| Cesarean Section | 90 | 29 | 32.22% |
+
+# Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate — making it the
 most fraud-infiltrated high-volume condition. These conditions are targeted because they are common,
 frequently billed, and harder to audit at scale.
 
-Every Age Group Is a Target — But Patterns Differ
+---
+
+# Every Age Group Is a Target — But Patterns Differ
 Fraud does not discriminate by age, but the type of fraud does:
-Age GroupDominant Fraud TypeAvg Billing (₹)0–18Phantom Billing677,96019–35Phantom Billing524,91536–55Fake Treatment367,15456–75Phantom Billing560,49776+Phantom Billing548,259
-Children (0–18) face the highest average Phantom Billing at ₹677,960 per case — the most
+
+| Age Group | Dominant Fraud Type | Avg Billing (₹) |
+| --- | --- | --- |
+| 0–18 | Phantom Billing | 677,960 |
+| 19–35 | Phantom Billing | 524,915 |
+| 36–55 | Fake Treatment | 367,154 |
+| 56–75 | Phantom Billing | 560,497 |
+| 76+ | Phantom Billing | 548,259 |
+
+# Children (0–18) face the highest average Phantom Billing at ₹677,960 per case — the most
 expensive fraud billing of any age group. This is alarming because minors are least likely to
 self-report billing discrepancies.
-The 76+ age group had the highest Ghost Enrollee count (48 cases) — elderly patients are
+
+# The 76+ age group had the highest Ghost Enrollee count (48 cases) — elderly patients are
 disproportionately enrolled as ghost beneficiaries, likely because their records are less actively
 monitored.
-The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
+ # The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
 adapt their method based on what is plausible for the age profile.
 
+---
+
 The Worst Individual Cases
-The highest single fraudulent claim was ₹988,887 for a Cosmetic Surgery Phantom Billing case —
-nearly 4× the legitimate average billing. The top 20 worst offending cases all involved
+The highest single fraudulent claim was **₹988,887** for a Cosmetic Surgery Phantom Billing case —
+nearly   ****4× the legitimate average billing. The top 20 worst offending cases all involved
 Phantom Billing, spread across Cosmetic Surgery, Organ Transplant, Complex Heart Surgery, Epilepsy
 Surgery, IVF, Neurosurgery, Advanced Spinal Surgery, and Cancer Treatment — all high-cost,
 low-scrutiny procedures.
 
-The Bottom Line
+---
 
-₹248 million was fraudulently billed across 613 cases.
-Eight surgical procedures had a 100% fraud rate.
-Children were billed at the highest phantom rates.
-The elderly were disproportionately used as ghost enrollees.
+# The Bottom Line
+
+# ₹248 million was fraudulently billed across 613 cases.
+Eight surgical procedures had a 100% fraud rate.Children were billed at the highest phantom rates.The elderly were disproportionately used as ghost enrollees.
 And the most dangerous fraud type — Phantom Billing — costs 111% more than a legitimate claim.
 
 This analysis demonstrates that healthcare fraud is not random. It is systematic, targeted, and
