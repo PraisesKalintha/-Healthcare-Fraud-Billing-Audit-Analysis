@@ -149,8 +149,6 @@ The four fraud types vary dramatically in how they operate and what they cost:
 | Fake Treatment | 243 | ₹381,962 | +48% |
 | Phantom Billing | 206 | ₹544,507 | +111% |
 
----
-
 Phantom Billing is the most dangerous fraud type — not just because it bills at 2× the legitimate
 rate, but because it targets the most expensive procedures. Ghost Enrollee fraud is the most
 deceptive — billing almost identically to legitimate cases (+2%), making it nearly impossible to
@@ -173,12 +171,12 @@ Eight diagnoses showed a 100% fraud rate — every single case filed under these
 | Neurosurgery | 21 |503,447 | 10,572,384
 | Advanced Spinal Surgery | 23 | 480,537 | 11,052,342 |
 
----
 
 These are not random targets. Fraudsters specifically chose high-cost, hard-to-verify surgical
 procedures where phantom billing is difficult to dispute. Epilepsy Surgery had the highest average
 billing per case at ₹625,052 — nearly 2.5× the legitimate baseline.
 IVF fraud alone accounts for ₹19.2 million — the single largest fraudulent diagnosis category.
+
 ---
 
 # Common Conditions Are Also at Risk
@@ -210,14 +208,14 @@ Fraud does not discriminate by age, but the type of fraud does:
 | 56–75 | Phantom Billing | 560,497 |
 | 76+ | Phantom Billing | 548,259 |
 
-# Children (0–18) face the highest average Phantom Billing at ₹677,960 per case — the most
+Children (0–18) face the highest average Phantom Billing at ₹677,960 per case — the most
 expensive fraud billing of any age group. This is alarming because minors are least likely to
 self-report billing discrepancies.
 
-# The 76+ age group had the highest Ghost Enrollee count (48 cases) — elderly patients are
+The 76+ age group had the highest Ghost Enrollee count (48 cases) — elderly patients are
 disproportionately enrolled as ghost beneficiaries, likely because their records are less actively
 monitored.
- # The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
+ The 36–55 group shifts toward Fake Treatment rather than Phantom Billing — suggesting fraudsters
 adapt their method based on what is plausible for the age profile.
 
 ---
