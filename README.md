@@ -231,7 +231,7 @@ low-scrutiny procedures.
 
 # The Bottom Line
 
-# ₹248 million was fraudulently billed across 613 cases.
+₹248 million was fraudulently billed across 613 cases.
 Eight surgical procedures had a 100% fraud rate.Children were billed at the highest phantom rates.The elderly were disproportionately used as ghost enrollees.
 And the most dangerous fraud type — Phantom Billing — costs 111% more than a legitimate claim.
 
