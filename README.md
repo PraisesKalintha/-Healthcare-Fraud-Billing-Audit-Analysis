@@ -104,9 +104,9 @@ Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate 
 | 56–75 | Phantom Billing | 560,497 |
 | 76+ | Phantom Billing | 548,259 |
 
-•****Children (0–18)**** face the highest average Phantom Billing at ₹677,960 — the most expensive fraud of any age group, and the least likely to self-report
-•****The 76+**** group had the highest Ghost Enrollee count (48 cases) — elderly records are less actively monitored
-•****The 36–55**** group shifts to Fake Treatment — fraudsters adapt their method to what's plausible per age profile
+>•****Children (0–18)**** face the highest average Phantom Billing at ₹677,960 — the most expensive fraud of any age group, and the least likely to self-report
+>•****The 76+**** group had the highest Ghost Enrollee count (48 cases) — elderly records are less actively monitored
+>•****The 36–55**** group shifts to Fake Treatment — fraudsters adapt their method to what's plausible per age profile
 
 ---
 The Worst Individual Cases
