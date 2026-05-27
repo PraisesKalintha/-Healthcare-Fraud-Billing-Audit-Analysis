@@ -203,10 +203,10 @@ ORDER BY fraud_rate_pct DESC;
 # 🚀 How to Run
 # SQL Analysis
 
-- 1.Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
-- 2.Import the dataset from the Dataset/ folder
-- 3.Run queries from the SQL/ folder in order — Q1 through Q10
-- 4.Recommended database: MySQL
+- 1 Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
+- 2 Import the dataset from the Dataset/ folder
+- 3 Run queries from the SQL/ folder in order — Q1 through Q10
+- 4 Recommended database: MySQL
 
 # Power BI Dashboard
 
