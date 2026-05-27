@@ -43,7 +43,7 @@ A complete data analysis project designed to detect and quantify fraudulent heal
 
 ---
 
-# 📖 What Found — The Data Story
+# 📖 What We Found — The Data Story
 
 # The Scale of the Problem
 Out of 1,500 patient records audited, ****613 cases (40.87%) were fraudulent****, with fraud accounting for
@@ -196,7 +196,7 @@ ORDER BY fraud_rate_pct DESC;
 | Tool | Purpose |
 | --- | --- |
 | MySQL | Data extraction, validation, fraud pattern analysis — 10 structured queries |
-| Power BI | DesktopInteractive KPI dashboard, visual storytelling, executive reporting |
+| Power BI  Desktop | Interactive KPI dashboard, visual storytelling, executive reporting |
 | DAX | Custom measures — fraud rate, avg billing, total fraud value calculations |
 | Power Query | Data cleaning, date transformation, column standardization |
 
@@ -216,14 +216,6 @@ If prompted, update the data source path to point to your local Dataset/ folder
 Refresh the data and explore the dashboard
 
 ---
-
-🛠️ Tech Stack
-
-| Tool |  Purpose |
-| --- | --- |
-| MySQL |  querying and analysis |
-| Power BI | DesktopDashboard and visualization |
-| Microsoft Excel  | Data storage and preparation |
 
 ## 👤 Author
 
