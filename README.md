@@ -1,3 +1,10 @@
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-FF6F00?style=flat&logo=microsoft&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Records](https://img.shields.io/badge/Records-1%2C500-blue)
+![Fraud Rate](https://img.shields.io/badge/Fraud%20Rate-40.87%25-red)
+
 # 🏥 Healthcare Revenue & Fraud Audit Analysis
 # SQL • Power BI • Healthcare Analytics • Fraud Detection
 
