@@ -104,9 +104,11 @@ Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate 
 | 56–75 | Phantom Billing | 560,497 |
 | 76+ | Phantom Billing | 548,259 |
 
-- 🔴 ****Children (0–18)**** face the highest average Phantom Billing at ₹677,960 — the most expensive fraud of any age group, and the least likely to self-report
-- 🟠 ****The 76+ group**** had the highest Ghost Enrollee count (48 cases) — elderly records are less actively monitored
-- 🟡 ****The 36–55 group**** shifts to Fake Treatment — fraudsters adapt their method to what's plausible per age profile
+🔴 ****Children (0–18)**** face the highest average Phantom Billing at ₹677,960 — the most expensive fraud of any age group, and the least likely to self-report
+
+🟠 ****The 76+ group**** had the highest Ghost Enrollee count (48 cases) — elderly records are less actively monitored
+
+🟡 ****The 36–55 group**** shifts to Fake Treatment — fraudsters adapt their method to what's plausible per age profile
 
 ---
 # The Worst Individual Cases
@@ -203,17 +205,23 @@ ORDER BY fraud_rate_pct DESC;
 # 🚀 How to Run
 # SQL Analysis
 
-- 1 Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
-- 2 Import the dataset from the Dataset/ folder
-- 3 Run queries from the SQL/ folder in order — Q1 through Q10
-- 4 Recommended database: MySQL
+1. Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
+
+2. Import the dataset from the Dataset/ folder
+
+3. Run queries from the SQL/ folder in order — Q1 through Q10
+
+4. Recommended database: MySQL
 
 # Power BI Dashboard
 
-- 1.Download and install Power BI Desktop (free)
-- 2.Open Power BI/Healthcare_Fraud_Dashboard.pbix
-- 3.If prompted, update the data source path to point to your local Dataset/ folder
-- 4.Refresh the data and explore the dashboard
+ 1.Download and install Power BI Desktop (free)
+ 
+ 2.Open Power BI/Healthcare_Fraud_Dashboard.pbix
+ 
+ 3.If prompted, update the data source path to point to your local Dataset/ folder
+ 
+ 4.Refresh the data and explore the dashboard
 
 ---
 
