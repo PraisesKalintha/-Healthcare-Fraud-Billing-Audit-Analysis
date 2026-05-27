@@ -1,3 +1,5 @@
+<img width="4160" height="3120" alt="trashed-1676301227-IMG_20230114_151610" src="https://github.com/user-attachments/assets/471a4e11-2323-4575-bd84-4d1934dc1143" />
+
 # 🏥 Healthcare Revenue & Fraud Audit Analysis
 # SQL • Power BI • Healthcare Analytics • Fraud Detection
 
