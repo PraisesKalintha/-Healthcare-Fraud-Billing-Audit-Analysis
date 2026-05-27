@@ -109,7 +109,7 @@ Tuberculosis had the highest case volume (103 records) with a 38.83% fraud rate 
 - ****🟡 The 36–55 group**** shifts to Fake Treatment — fraudsters adapt their method to what's plausible per age profile
 
 ---
-The Worst Individual Cases
+# The Worst Individual Cases
 The highest single fraudulent claim was ****₹988,887**** for a Cosmetic Surgery Phantom Billing case — nearly 4× the legitimate average. All top 20 worst offending cases involved Phantom Billing across Cosmetic Surgery, Organ Transplant, Complex Heart Surgery, Epilepsy Surgery, IVF, Neurosurgery, Advanced Spinal Surgery, and Cancer Treatment.
 
 ---
@@ -203,10 +203,10 @@ ORDER BY fraud_rate_pct DESC;
 # 🚀 How to Run
 # SQL Analysis
 
-1.Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
-2.Import the dataset from the Dataset/ folder
-3.Run queries from the SQL/ folder in order — Q1 through Q10
-4.Recommended database: MySQL
+- 1.Open any SQL client (MySQL Workbench, DBeaver, pgAdmin, etc.)
+- 2.Import the dataset from the Dataset/ folder
+- 3.Run queries from the SQL/ folder in order — Q1 through Q10
+- 4.Recommended database: MySQL
 
 # Power BI Dashboard
 
