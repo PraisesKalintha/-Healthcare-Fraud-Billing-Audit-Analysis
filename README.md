@@ -210,7 +210,7 @@ ORDER BY fraud_rate_pct DESC;
 
 # Power BI Dashboard
 
-- 1. Download and install Power BI Desktop (free)
+- 1.Download and install Power BI Desktop (free)
 - 2.Open Power BI/Healthcare_Fraud_Dashboard.pbix
 - 3.If prompted, update the data source path to point to your local Dataset/ folder
 - 4.Refresh the data and explore the dashboard
